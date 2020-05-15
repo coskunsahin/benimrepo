@@ -17,6 +17,7 @@ namespace OrderCoreReact
     {
         public Startup(IConfiguration configuration)
         {
+          
             Configuration = configuration;
         }
 
